@@ -4,6 +4,9 @@
 
 
 ## Following is an example of Controller:
+
+
+- Controller File:
 ```
 use Illuminate\Support\Facades\Validator;
 
@@ -28,4 +31,40 @@ $validator = Validator::make($requestData, [
     'hidden_token'      => 'nullable|string',
     'terms'             => 'accepted', // For checkbox
 ]);
+```
+
+
+
+- Blade template: 
+```
+<form method="POST" enctype="multipart/form-data">
+    @csrf
+    <input type="text" name="name">
+    <input type="email" name="email">
+    <input type="password" name="password">
+    <input type="password" name="password_confirmation">
+    <input type="tel" name="phone">
+    <input type="number" name="age">
+    <textarea name="bio"></textarea>
+    <input type="checkbox" name="is_active" value="1">
+    <select name="gender">
+        <option value="male">Male</option>
+        <option value="female">Female</option>
+        <option value="other">Other</option>
+    </select>
+    <select name="role_id">
+        <option value="1">Admin</option>
+        <option value="2">User</option>
+    </select>
+    <input type="file" name="profile_picture">
+    <input type="url" name="website">
+    <input type="date" name="dob">
+    <input type="time" name="appointment_time">
+    <input type="color" name="color_preference">
+    <input type="range" name="range_input" min="1" max="10">
+    <input type="hidden" name="hidden_token" value="12345">
+    <input type="checkbox" name="terms" value="1"> I agree
+    <button type="submit">Submit</button>
+</form>
+
 ```
