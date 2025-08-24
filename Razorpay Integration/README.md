@@ -61,6 +61,11 @@ Schema::create('payments', function (Blueprint $t) {
 });
 ```
 
+### Migrate Table
+```bash
+php artisan migrate
+```
+
 ### Model: `app/Models/Payment.php`
 
 ```php
