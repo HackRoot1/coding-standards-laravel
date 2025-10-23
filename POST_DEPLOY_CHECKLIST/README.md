@@ -9,7 +9,7 @@ Use this to ensure your website is fully production-ready, discoverable, and wel
 
 - [ ] Add your website to **Google Search Console**
   - [ ] Verify ownership
-  - [ ] Submit sitemap (`/sitemap.xml`)
+  - [ ] Submit sitemap (`/sitemap.xml`) (https://www.xml-sitemaps.com/) Go to this website and download sitemap.xml
   - [ ] Check for indexing & mobile usability
 - [ ] Add website to **Bing Webmaster Tools**
 - [ ] Create and upload a **`robots.txt`** file
