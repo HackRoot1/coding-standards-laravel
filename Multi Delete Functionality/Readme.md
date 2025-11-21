@@ -1,41 +1,36 @@
-Laravel Multi-Selection Delete Feature
+# Laravel Multi-Selection Delete Feature
 
-This guide explains how to implement a multi-selection delete feature in a Laravel application. It includes Blade markup, JavaScript (converted to jQuery), route configuration, and controller logic.
+This guide explains how to implement a **multi-selection delete
+feature** in a Laravel application. It includes Blade markup, JavaScript
+(converted to jQuery), route configuration, and controller logic.
 
+## 📌 Features
 
----
+-   Select multiple rows using checkboxes.
+-   Delete selected records using a single **Delete Selected** button.
+-   Confirmation popup before deletion.
+-   Transaction-safe deletion.
+-   Activity logging included.
 
-📌 Features
+## 🖥️ Blade File Implementation
 
-Select multiple rows using checkboxes.
+### **Delete Selected Button**
 
-Delete selected records using a single "Delete Selected" button.
-
-Confirmation prompt before deletion.
-
-Activity logging and transaction-safe deletion.
-
-
-
----
-
-🖥️ Blade File Implementation
-
-Delete Selected Button
-
+``` html
 <a class="dropdown-item cursor-pointer" id="delete-selected">Delete Selected</a>
+```
 
-Checkbox Inside Table
+### **Checkbox Inside Table**
 
+``` html
 <td>
     <input class="form-check-input row-checkbox" type="checkbox" name="ids[]" value="{{ $group->id }}">
 </td>
+```
 
+## 🧩 jQuery Version of Delete Selected Script
 
----
-
-🧩 jQuery Version of Delete Selected Script
-
+``` javascript
 $('#delete-selected').on('click', function () {
     let selected = [];
 
@@ -62,22 +57,17 @@ $('#delete-selected').on('click', function () {
         form.submit();
     }
 });
+```
 
+## 🛣️ Route Definition
 
----
-
-🛣️ Route Definition
-
+``` php
 Route::delete('/customers-group/delete-selected', 'deleteSelected')->name('delete.selected.customers.group');
+```
 
+## 🧭 Controller Method: deleteSelected()
 
----
-
-🧭 Controller Method: deleteSelected()
-
-/**
- * Delete multiple customer groups
- */
+``` php
 public function deleteSelected(Request $request)
 {
     $validator = Validator::make($request->all(), [
@@ -110,21 +100,18 @@ public function deleteSelected(Request $request)
         } else {
             return redirect()->back()->with('error', 'No groups deleted.');
         }
-    } catch (\Exception $e) {
+    } catch (\Exception e) {
         DB::rollBack();
-        Log::error('Error deleting customer groups: ' . $e->getMessage());
+        Log::error('Error deleting customer groups: ' . e.getMessage());
 
-        return redirect()->back()->with('error', 'Error: ' . $e->getMessage());
+        return redirect()->back()->with('error', 'Error: ' . e.getMessage());
     }
 }
+```
 
+## ✅ Summary
 
----
-
-✅ Summary
-
-This setup allows safe multi-row deletion.
-
-Uses CSRF protection, DELETE method spoofing, and Laravel activity logs.
-
-Ensures database safety with transactions.
+-   Fully supports mass deletion with CSRF protection.
+-   Ensures safety using DB transactions.
+-   Logs delete activity for auditing.
+-   Uses jQuery for cleaner and shorter JavaScript.
