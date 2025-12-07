@@ -1,6 +1,6 @@
-# 🗓️ November Habit Tracker
+# 🗓️ December Habit Tracker
 
-Track your daily habits consistently throughout **November 2025**!  
+Track your daily habits consistently throughout **December 2025**!  
 Stay disciplined and improve every day 💪
 
 ---
@@ -19,40 +19,40 @@ Stay disciplined and improve every day 💪
 
 ---
 
-## 📅 November 2025 Progress
+## 📅 December 2025 Progress
 
 | Date | 🌅 Wake up <br> before 5 AM | English <br> Learning | 📚 Laravel <br> Learning | 🧠 Write Logic <br> Concepts | 💻 Personal <br> Project | 📵 Screen Time <br> <2 Hours | 🛏️ Sleep <br> before 12 AM |
 |------:|:---------------------------:|:--------------------:|:------------------------:|:---------------------------:|:-------------------------:|:---------------------------:|:---------------------------:|
-| Nov 1  |                             |                      |                          |                             |                           |                             |                             |
-| Nov 2  |                             |                      |                          |                             |                           |                             |                             |
-| Nov 3  |                             |                      |                          |                             |                           |                             |                             |
-| Nov 4  |                             |                      |                          |                             |                           |                             |                             |
-| Nov 5  |                             |                      |                          |                             |                           |                             |                             |
-| Nov 6  |                             |                      |                          |                             |                           |                             |                             |
-| Nov 7  |                             |                      |                          |                             |                           |                             |                             |
-| Nov 8  |                             |                      |                          |                             |                           |                             |                             |
-| Nov 9  |                             |                      |                          |                             |                           |                             |                             |
-| Nov 10 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 11 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 12 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 13 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 14 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 15 |      ✅                     |      ✅             |✅                        |                             |                           |                             |                             |
-| Nov 16 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 17 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 18 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 19 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 20 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 21 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 22 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 23 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 24 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 25 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 26 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 27 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 28 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 29 |                             |                      |                          |                             |                           |                             |                             |
-| Nov 30 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 1  |                             |                      |                          |                             |                           |                             |                             |
+| Dec 2  |                             |                      |                          |                             |                           |                             |                             |
+| Dec 3  |                             |                      |                          |                             |                           |                             |                             |
+| Dec 4  |                             |                      |                          |                             |                           |                             |                             |
+| Dec 5  |                             |                      |                          |                             |                           |                             |                             |
+| Dec 6  |                             |                      |                          |                             |                           |                             |                             |
+| Dec 7  |                             |                      |                          |                             |                           |                             |                             |
+| Dec 8  |                             |                      |                          |                             |                           |                             |                             |
+| Dec 9  |                             |                      |                          |                             |                           |                             |                             |
+| Dec 10 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 11 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 12 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 13 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 14 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 15 |      ✅                     |      ✅             |✅                        |                             |                           |                             |                             |
+| Dec 16 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 17 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 18 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 19 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 20 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 21 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 22 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 23 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 24 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 25 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 26 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 27 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 28 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 29 |                             |                      |                          |                             |                           |                             |                             |
+| Dec 30 |                             |                      |                          |                             |                           |                             |                             |
 
 ---
 
@@ -67,7 +67,7 @@ Example:
 
 | Date | 🌅 | English | 📚 | 🧠 | 💻 | 📵 | 🛏️ |
 |------:|:--:|:-------:|:--:|:--:|:--:|:--:|:--:|
-| Nov 1 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ |
+| Dec 1 | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ |
 
 ---
 
