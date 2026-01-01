@@ -39,7 +39,7 @@ A structured habit-tracking system to build **discipline, learning consistency, 
 
 |   Date | ⏰ Wake | 🗣️ English | 🧩 Laravel | 📝 README | ⚙️ New Tech | 📘 Docs | 📊 Stocks | 🧑‍💻 Project | 📵 No Mobile | 🌙 Sleep |
 | -----: | :----: | :---------: | :--------: | :-------: | :---------: | :-----: | :-------: | :-----------: | :-------: | :------: |
-|  Jan 1 |        |             |            |           |             |         |           |               |           |          |
+|  Jan 1 |   ✅  |   ✅        |✅         |✅         |✅           |✅       |✅         |✅           |     ❌    |✅        |
 |  Jan 2 |        |             |            |           |             |         |           |               |           |          |
 |  Jan 3 |        |             |            |           |             |         |           |               |           |          |
 |  Jan 4 |        |             |            |           |             |         |           |               |           |          |
