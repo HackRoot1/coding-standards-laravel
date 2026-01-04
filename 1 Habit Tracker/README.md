@@ -42,7 +42,7 @@ A structured habit-tracking system to build **discipline, learning consistency, 
 |  Jan 1 |   ✅  |   ✅        |✅         |✅         |✅           |✅       |✅        |✅           |     ❌    |✅        |
 |  Jan 2 |   ✅   |  ✅        | ✅        |✅         |✅           |✅       |✅        |❌            |    ❌    |✅       |
 |  Jan 3 | ❌     | ✅         |✅         |✅        |✅           |✅      |✅         |✅             |    ❌    |❌       |
-|  Jan 4 |        |             |            |           |             |         |           |               |           |          |
+|  Jan 4 Sunday |❌|           |            |           |             |         |           |               |   ❌      |          |
 |  Jan 5 |        |             |            |           |             |         |           |               |           |          |
 |  Jan 6 |        |             |            |           |             |         |           |               |           |          |
 |  Jan 7 |        |             |            |           |             |         |           |               |           |          |
