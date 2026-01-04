@@ -37,11 +37,11 @@ A structured habit-tracking system to build **discipline, learning consistency, 
 
 ## 📅 January 2026 – Daily Habit Tracker
 
-|   Date | ⏰ Wake | 🗣️ English | 🧩 Laravel | 📝 README | ⚙️ New Tech | 📘 Docs | 📊 Stocks | 🧑‍💻 Project | 📵 No Mobile | 🌙 Sleep |
+|   Date | ⏰ Wake | 🗣️ English | 🧩 Laravel | 📝 README | ⚙️ New Tech | 📘 Docs | 📊 Stocks | 🧑‍💻 Project | 📵 No Social Media | 🌙 Sleep |
 | -----: | :----: | :---------: | :--------: | :-------: | :---------: | :-----: | :-------: | :-----------: | :-------: | :------: |
-|  Jan 1 |   ✅  |   ✅        |✅         |✅         |✅           |✅       |✅         |✅           |     ❌    |✅        |
-|  Jan 2 |        |             |            |           |             |         |           |               |           |          |
-|  Jan 3 |        |             |            |           |             |         |           |               |           |          |
+|  Jan 1 |   ✅  |   ✅        |✅         |✅         |✅           |✅       |✅        |✅           |     ❌    |✅        |
+|  Jan 2 |   ✅   |  ✅        | ✅        |✅         |✅           |✅       |✅        |❌            |    ❌    |✅       |
+|  Jan 3 | ❌     | ✅         |✅         |✅        |✅           |✅      |✅         |✅             |    ❌    |❌       |
 |  Jan 4 |        |             |            |           |             |         |           |               |           |          |
 |  Jan 5 |        |             |            |           |             |         |           |               |           |          |
 |  Jan 6 |        |             |            |           |             |         |           |               |           |          |
