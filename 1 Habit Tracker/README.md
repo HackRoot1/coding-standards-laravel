@@ -104,12 +104,12 @@ Use **only these symbols** for consistency:
 
 Fill this honestly at month end.
 
-* **Best Performing Habit:**
-* **Habit That Needs Improvement:**
-* **Most Valuable Learning (Laravel / Tech / Stocks):**
-* **Total READMEs Created:**
-* **Total Docs Written:**
-* **Biggest Win of the Month:**
+* **Best Performing Habit: English Learning**
+* **Habit That Needs Improvement: Wake Up, Project Work, Limit Social Media**
+* **Most Valuable Learning (Laravel / Tech / Stocks): Laravel, Stock Market**
+* **Total READMEs Created: 27**
+* **Total Docs Written: 23**
+* **Biggest Win of the Month: 1st Jan, 12th Jan**
 * **Overall Score:** `150 / 310`
 
 ---
