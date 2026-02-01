@@ -26,7 +26,7 @@ A structured habit-tracking system to build **discipline, learning consistency, 
 |  2 | 🗣️ English Learning           | Daily practice: reading, writing, speaking      |
 |  3 | 🧩 Laravel Learning            | Learn Laravel concepts, modules, or features    |
 |  4 | 📝 Create Learning README      | Create README for each learned concept/module   |
-|  5 | ⚙️ Learn New Technology        | Learn new tech/tools (Redis, AWS, Twilio, etc.) |
+|  5 | ⚙️ Learn New Technology(MERN)  | Learn new tech/tools (Redis, AWS, Twilio, etc.) |
 |  6 | 📘 Create Tech Documentation   | Prepare documentation for newly learned tech    |
 |  7 | 📊 Learn Stock Market          | Study investing, trading & market fundamentals  |
 |  8 | 🧑‍💻 Work on Personal Project | Code or build something daily                   |
@@ -37,7 +37,7 @@ A structured habit-tracking system to build **discipline, learning consistency, 
 
 ## 📅 February 2026 – Daily Habit Tracker
 
-|   Date          | ⏰ Wake   | 🗣️ English | 🧩 Laravel | 📝 README | ⚙️ New Tech | 📘 Docs   | 📊 Stocks | 🧑‍💻 Project   | 📵 No Social Media | 🌙 Sleep    | Total     |
+|   Date          | ⏰ Wake   | 🗣️ English | 🧩 Laravel | 📝 README | ⚙️ New Tech (MERN) | 📘 Docs   | 📊 Stocks | 🧑‍💻 Project   | 📵 No Social Media | 🌙 Sleep    | Total     |
 | --------------: | :----:    | :---------: | :--------: | :-------: | :---------:   | :-----:  | :-------:  | :-------------: | :----------------: | :----------: | :--------:| 
 |  Feb 1 Sunday   |           |             |            |           |               |          |            |                 |                    |              |  0/10     |
 |  Feb 2          |           |             |            |           |               |          |            |                 |                    |              |  0/10     |
