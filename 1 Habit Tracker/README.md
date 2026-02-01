@@ -65,11 +65,11 @@ A structured habit-tracking system to build **discipline, learning consistency, 
 | Jan 24          |   ❌      |    ✅      |    ✅     |    ✅     |     ✅       |    ✅    |     ✅     |      ❌        |         ❌         |     ✅      |  7/10     |
 | Jan 25 Sunday   |   ⚪      |    ⚪      |    ⚪     |    ⚪     |     ⚪       |    ⚪    |     ⚪     |      ⚪        |         ⚪         |     ⚪      |  0/10     |
 | Jan 26          |   ⚪      |    ⚪      |    ⚪     |    ⚪     |     ⚪       |    ⚪    |     ⚪     |      ✅        |         ⚪         |     ⚪      |  1/10     |
-| Jan 27          |           |             |            |           |               |          |             |                |                     |             |           |
-| Jan 28          |           |             |            |           |               |          |             |                |                     |             |           |
-| Jan 29          |           |             |            |           |               |          |             |                |                     |             |           |
-| Jan 30          |           |             |            |           |               |          |             |                |                     |             |           |
-| Jan 31          |           |             |            |           |               |          |             |                |                     |             |           |
+| Jan 27          |   ⚪      |    ⚪      |    ⚪     |    ⚪     |     ⚪       |    ⚪    |     ⚪     |      ✅        |         ⚪         |     ⚪      |  1/10     |
+| Jan 28          |   ❌      |    ✅      |    ✅     |    ✅     |     ✅       |    ✅    |     ✅     |      ❌        |         ❌         |     ✅      |  7/10     |
+| Jan 29          |   ❌      |    ✅      |    ✅     |    ✅     |     ✅       |    ✅    |     ✅     |      ❌        |         ❌         |     ✅      |  7/10     |
+| Jan 30          |   ❌      |    ❌      |    ❌     |    ❌     |     ❌       |    ❌    |     ❌     |      ❌        |         ❌         |     ✅      |  1/10     |
+| Jan 31          |   ❌      |    ❌      |    ❌     |    ❌     |     ❌       |    ❌    |     ❌     |      ❌        |         ❌         |     ❌      |  0/10     |
 
 ---
 
@@ -110,7 +110,7 @@ Fill this honestly at month end.
 * **Total READMEs Created:**
 * **Total Docs Written:**
 * **Biggest Win of the Month:**
-* **Overall Score:** `/ 310`
+* **Overall Score:** `150 / 310`
 
 ---
 
