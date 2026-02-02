@@ -40,7 +40,7 @@ A structured habit-tracking system to build **discipline, learning consistency, 
 |   Date          | ⏰ Wake   | 🗣️ English | 🧩 Laravel | 📝 README | ⚙️ New Tech (MERN) | 📘 Docs   | 📊 Stocks | 🧑‍💻 Project   | 📵 No Social Media | 🌙 Sleep    | Total     |
 | --------------: | :--------:| :---------: | :--------: | :-------: | :-----------: | :-------:| :---------:| :-------------: | :----------------: | :----------: | :--------:| 
 |  Feb 1 Sunday   |     ⚪    |     ⚪     |     ⚪     |    ⚪    |       ⚪      |    ⚪   |     ⚪     |       ⚪       |         ⚪         |      ⚪     |  0/10     |
-|  Feb 2          |           |             |            |           |               |          |            |                 |                    |              |  0/10     |
+|  Feb 2          |     ❌    |     ✅     |     ❌     |    ❌    |       ❌      |    ❌   |     ❌     |       ❌       |         ❌         |      ✅     |  2/10     |
 |  Feb 3          |           |             |            |           |               |          |            |                 |                    |              |  0/10     |
 |  Feb 4          |           |             |            |           |               |          |            |                 |                    |              |  0/10     |
 |  Feb 5          |           |             |            |           |               |          |            |                 |                    |              |  0/10     |
