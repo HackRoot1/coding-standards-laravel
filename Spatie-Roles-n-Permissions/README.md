@@ -1,6 +1,3 @@
-Your steps are **mostly correct**, but there are a few changes required for **Laravel 12** and the latest version of **Spatie Laravel Permission (v6+)**.
-
----
 
 # Laravel 12 + Spatie Roles & Permissions + Super Admin (Recommended Setup)
 
